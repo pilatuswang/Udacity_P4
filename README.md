@@ -29,5 +29,5 @@ The modeling details and results and be found in file: dog_app_Chen.ipynb
 A medium blog is genrated for this project: https://medium.com/p/1dc3b7f698eb/edit. 
 
 # Reference
-This project refers to the ResNet 50 model on this resource https://github.com/lakshman533/Dog-Breed-Identifier
+This project refers to the ResNet 50 model on the github resource https://github.com/lakshman533/Dog-Breed-Identifier
 
