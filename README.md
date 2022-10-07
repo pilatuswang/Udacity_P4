@@ -6,7 +6,9 @@ In this project, a machine learning model called Convolutional Neural Networks (
 
 # Modeling Details 
 The details of the model can be divided into the following steps: 
+
 Step 0: Import Datasets
+
 Step 1: Detect Humans
 Step 2: Detect Dogs
 Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
