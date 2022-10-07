@@ -23,8 +23,11 @@ Step 6: Testing the Algorithm
 
 
 # File Description
-The modeling details and results and be found in file: 
+The modeling details and results and be found in file: dog_app_Chen.ipynb
 
 # Blog
-A medium blog is genrated. Please find the analysis here. 
+A medium blog is genrated for this project: https://medium.com/p/1dc3b7f698eb/edit. 
+
+# Reference
+This project refers to the ResNet 50 model on this resource https://github.com/lakshman533/Dog-Breed-Identifier
 
